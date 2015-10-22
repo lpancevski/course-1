@@ -1,0 +1,39 @@
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" >
+    <TableRow android:layout_width="match_parent" android:layout_height="wrap_content">
+        <Button android:text="TEST BUTTON" android:layout_width="80dip" android:layout_height="50dip"/>
+        <Button android:text="TEST BUTTON" android:layout_width="80dip" android:layout_height="50dip"/>
+        <Button android:text="TEST BUTTON" android:layout_width="80dip" android:layout_height="50dip"/>
+    </TableRow>
+    <TableRow android:layout_width="match_parent" android:layout_height="wrap_content">
+        <Button android:text="TEST BUTTON" android:layout_width="80dip" android:layout_height="50dip"/>
+        <EditText android:hint="TEST" android:layout_width="150dip" android:layout_span="1"/>
+    </TableRow>
+    <TableRow android:layout_width="match_parent" android:layout_height="wrap_content">
+        <Button android:text="TEST BUTTON" android:layout_width="80px" android:layout_height="50dip"/>
+        <Button android:text="TEST BUTTON" android:layout_width="80px" android:layout_height="50dip"/>
+        <Button android:text="TEST BUTTON" android:layout_width="80px" android:layout_height="50dip"/>
+        <Button android:text="TEST BUTTON" android:layout_width="80px" android:layout_height="50dip"/>
+        <Button android:text="TEST BUTTON" android:layout_width="80px" android:layout_height="50dip"/>
+    </TableRow>
+    <TableRow android:layout_width="match_parent" android:layout_height="200dip">
+
+        <Button
+            android:layout_width="80dip"
+            android:layout_height="300dp"
+            android:layout_span="2"
+            android:text="TEST BUTTON" />
+
+        <LinearLayout android:layout_width="match_parent" android:layout_height="match_parent"
+            android:orientation="vertical" android:gravity="center_horizontal" android:layout_span="2">
+            <Button android:text="TEST BUTTON" android:layout_width="80dip" android:layout_height="50dip"/>
+        </LinearLayout>
+    </TableRow>
+    <TableRow android:layout_width="match_parent" android:layout_height="match_parent">
+        <Button android:text="TEST BUTTON" android:layout_width="80dip" android:layout_height="50dip"
+            android:layout_column="3"/>
+    </TableRow>
+</TableLayout>
