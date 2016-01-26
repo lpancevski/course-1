@@ -1,0 +1,43 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+        android:orientation="horizontal" android:gravity="center">
+        <CheckBox android:id="@+id/boxios" android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:text="@string/stringios"/>
+        <CheckBox android:id="@+id/boxandroid" android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:text="@string/stringandroid" android:checked="true"/>
+        <CheckBox android:id="@+id/boxwp8" android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:text="@string/stringwp8"/>
+        <CheckBox android:id="@+id/boxsymbian" android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:text="@string/stringsymbian"/>
+    </LinearLayout>
+
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+        android:orientation="vertical" android:gravity="center">
+        <RadioGroup android:id="@+id/rbgroup" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <RadioButton android:id="@+id/rbios" android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:text="@string/stringios"/>
+            <RadioButton android:id="@+id/rbandroid" android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:text="@string/stringandroid" android:checked="true"/>
+            <RadioButton android:id="@+id/rbwp8" android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:text="@string/stringwp8"/>
+            <RadioButton android:id="@+id/rbsymbian" android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:text="@string/stringsymbian"/>
+        </RadioGroup>
+    </LinearLayout>
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+        android:orientation="horizontal" android:gravity="center">
+        <Button android:id="@+id/btntestbox" android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:text="@string/stringtestbox"/>
+        <Button android:id="@+id/btntestradio" android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:text="@string/stringtestradio"/>
+
+
+    </LinearLayout>
+
+</LinearLayout>
