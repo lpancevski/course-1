@@ -12,6 +12,8 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Day 1" />
             <option value="$PROJECT_DIR$/Day 1/helloworld" />
+            <option value="$PROJECT_DIR$/Day 10" />
+            <option value="$PROJECT_DIR$/Day 10/final_exam" />
             <option value="$PROJECT_DIR$/Day 2" />
             <option value="$PROJECT_DIR$/Day 2/abstractclassapplication-solution" />
             <option value="$PROJECT_DIR$/Day 2/designpatterns-singleton-solution" />
@@ -43,6 +45,7 @@
             <option value="$PROJECT_DIR$/Day 7/checkboxandradiogroupapplication-solution" />
             <option value="$PROJECT_DIR$/Day 7/exercise_day7" />
             <option value="$PROJECT_DIR$/Day 7/horizontalscrollviewapplication-solution" />
+            <option value="$PROJECT_DIR$/Day 7/pickers-solution" />
             <option value="$PROJECT_DIR$/Day 7/scrollableapplication-solution" />
             <option value="$PROJECT_DIR$/Day 8" />
             <option value="$PROJECT_DIR$/Day 8/exercise_day8" />
@@ -54,9 +57,8 @@
             <option value="$PROJECT_DIR$/Day 9/dialog-solution" />
             <option value="$PROJECT_DIR$/Day 9/exercise_day9" />
             <option value="$PROJECT_DIR$/Day 9/menus-and-actionbar-solution" />
-            <option value="$PROJECT_DIR$/Day 9/pickers-solution" />
+            <option value="$PROJECT_DIR$/Day 9/toolbar" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/toolbar" />
           </set>
         </option>
       </GradleProjectSettings>
