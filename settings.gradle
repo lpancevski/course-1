@@ -5,7 +5,7 @@ include 'Day 3/:arrayapplication-solution', 'Day 3/:designpatterns-builder-solut
 include 'Day 4/:runnableapplication-solution', 'Day 4/:threadapplication-solution', 'Day 4/:exercise_day4'
 include 'Day 5/:firstapplication'
 include 'Day 6/:linearlayoutapplication-solution', 'Day 6/:relativelayoutapplication-solution', 'Day 6/:tablelayoutapplication-solution', 'Day 6/:exercise_day6'
-include 'Day 7/:checkboxandradiogroupapplication-solution', 'Day 7/:horizontalscrollviewapplication-solution', 'Day 7/:scrollableapplication-solution', 'Day 7/:exercise_day7', 'Day 7/:pickers-solution'
+include 'Day 7/:scrollableapplication-solution', 'Day 7/:exercise_day7', 'Day 7/:pickers-solution', 'Day 7/:horizontalscrollviewapp-solution', 'Day 7/:checkboxandradiogroupapp-solution'
 include 'Day 8/:gridandlistviewapplication-solution', 'Day 8/:gridlayoutapplication-solution', 'Day 8/:spinnerapplication-solution', 'Day 8/:exercise_day8'
 include 'Day 9/:alertdialogapplication-solution', 'Day 9/:dialog-solution', 'Day 9/:menus-and-actionbar-solution', 'Day 9/:exercise_day9', 'Day 9/:toolbar'
 include 'Day 10/:final_exam'

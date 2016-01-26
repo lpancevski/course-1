@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/Day 9/alertdialogapplication-solution/alertdialogapplication-solution.iml" filepath="$PROJECT_DIR$/Day 9/alertdialogapplication-solution/alertdialogapplication-solution.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day 3/arrayapplication-solution/arrayapplication-solution.iml" filepath="$PROJECT_DIR$/Day 3/arrayapplication-solution/arrayapplication-solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/checkboxandradiogroupapp-solution/checkboxandradiogroupapp-solution.iml" filepath="$PROJECT_DIR$/checkboxandradiogroupapp-solution/checkboxandradiogroupapp-solution.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day 7/checkboxandradiogroupapplication-solution/checkboxandradiogroupapplication-solution.iml" filepath="$PROJECT_DIR$/Day 7/checkboxandradiogroupapplication-solution/checkboxandradiogroupapplication-solution.iml" />
       <module fileurl="file://$PROJECT_DIR$/course-1.iml" filepath="$PROJECT_DIR$/course-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day 3/designpatterns-builder-solution/designpatterns-builder-solution.iml" filepath="$PROJECT_DIR$/Day 3/designpatterns-builder-solution/designpatterns-builder-solution.iml" />
@@ -32,6 +33,7 @@
       <module fileurl="file://$PROJECT_DIR$/Day 7/exercise_day7/exercise_day7.iml" filepath="$PROJECT_DIR$/Day 7/exercise_day7/exercise_day7.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day 8/exercise_day8/exercise_day8.iml" filepath="$PROJECT_DIR$/Day 8/exercise_day8/exercise_day8.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day 9/exercise_day9/exercise_day9.iml" filepath="$PROJECT_DIR$/Day 9/exercise_day9/exercise_day9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 10/final_exam/final_exam.iml" filepath="$PROJECT_DIR$/Day 10/final_exam/final_exam.iml" />
       <module fileurl="file://$PROJECT_DIR$/final_exam/final_exam.iml" filepath="$PROJECT_DIR$/final_exam/final_exam.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day 5/firstapplication/firstapplication.iml" filepath="$PROJECT_DIR$/Day 5/firstapplication/firstapplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day 3/genericsapplication-solution/genericsapplication-solution.iml" filepath="$PROJECT_DIR$/Day 3/genericsapplication-solution/genericsapplication-solution.iml" />
@@ -39,11 +41,13 @@
       <module fileurl="file://$PROJECT_DIR$/Day 8/gridlayoutapplication-solution/gridlayoutapplication-solution.iml" filepath="$PROJECT_DIR$/Day 8/gridlayoutapplication-solution/gridlayoutapplication-solution.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day 3/hashmapapplication-solution/hashmapapplication-solution.iml" filepath="$PROJECT_DIR$/Day 3/hashmapapplication-solution/hashmapapplication-solution.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day 1/helloworld/helloworld.iml" filepath="$PROJECT_DIR$/Day 1/helloworld/helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/horizontalscrollviewapp-solution/horizontalscrollviewapp-solution.iml" filepath="$PROJECT_DIR$/horizontalscrollviewapp-solution/horizontalscrollviewapp-solution.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day 7/horizontalscrollviewapplication-solution/horizontalscrollviewapplication-solution.iml" filepath="$PROJECT_DIR$/Day 7/horizontalscrollviewapplication-solution/horizontalscrollviewapplication-solution.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day 2/interfaceapplication-solution/interfaceapplication-solution.iml" filepath="$PROJECT_DIR$/Day 2/interfaceapplication-solution/interfaceapplication-solution.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day 6/linearlayoutapplication-solution/linearlayoutapplication-solution.iml" filepath="$PROJECT_DIR$/Day 6/linearlayoutapplication-solution/linearlayoutapplication-solution.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day 3/listandsetapplication-solution/listandsetapplication-solution.iml" filepath="$PROJECT_DIR$/Day 3/listandsetapplication-solution/listandsetapplication-solution.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day 9/menus-and-actionbar-solution/menus-and-actionbar-solution.iml" filepath="$PROJECT_DIR$/Day 9/menus-and-actionbar-solution/menus-and-actionbar-solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 7/pickers-solution/pickers-solution.iml" filepath="$PROJECT_DIR$/Day 7/pickers-solution/pickers-solution.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day 9/pickers-solution/pickers-solution.iml" filepath="$PROJECT_DIR$/Day 9/pickers-solution/pickers-solution.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day 6/relativelayoutapplication-solution/relativelayoutapplication-solution.iml" filepath="$PROJECT_DIR$/Day 6/relativelayoutapplication-solution/relativelayoutapplication-solution.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day 4/runnableapplication-solution/runnableapplication-solution.iml" filepath="$PROJECT_DIR$/Day 4/runnableapplication-solution/runnableapplication-solution.iml" />
@@ -51,6 +55,7 @@
       <module fileurl="file://$PROJECT_DIR$/Day 8/spinnerapplication-solution/spinnerapplication-solution.iml" filepath="$PROJECT_DIR$/Day 8/spinnerapplication-solution/spinnerapplication-solution.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day 6/tablelayoutapplication-solution/tablelayoutapplication-solution.iml" filepath="$PROJECT_DIR$/Day 6/tablelayoutapplication-solution/tablelayoutapplication-solution.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day 4/threadapplication-solution/threadapplication-solution.iml" filepath="$PROJECT_DIR$/Day 4/threadapplication-solution/threadapplication-solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 9/toolbar/toolbar.iml" filepath="$PROJECT_DIR$/Day 9/toolbar/toolbar.iml" />
       <module fileurl="file://$PROJECT_DIR$/toolbar/toolbar.iml" filepath="$PROJECT_DIR$/toolbar/toolbar.iml" />
     </modules>
   </component>
