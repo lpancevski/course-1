@@ -42,9 +42,9 @@
             <option value="$PROJECT_DIR$/Day 6/relativelayoutapplication-solution" />
             <option value="$PROJECT_DIR$/Day 6/tablelayoutapplication-solution" />
             <option value="$PROJECT_DIR$/Day 7" />
-            <option value="$PROJECT_DIR$/Day 7/checkboxandradiogroupapplication-solution" />
+            <option value="$PROJECT_DIR$/Day 7/checkboxandradiogroupapp-solution" />
             <option value="$PROJECT_DIR$/Day 7/exercise_day7" />
-            <option value="$PROJECT_DIR$/Day 7/horizontalscrollviewapplication-solution" />
+            <option value="$PROJECT_DIR$/Day 7/horizontalscrollviewapp-solution" />
             <option value="$PROJECT_DIR$/Day 7/pickers-solution" />
             <option value="$PROJECT_DIR$/Day 7/scrollableapplication-solution" />
             <option value="$PROJECT_DIR$/Day 8" />
@@ -59,8 +59,6 @@
             <option value="$PROJECT_DIR$/Day 9/menus-and-actionbar-solution" />
             <option value="$PROJECT_DIR$/Day 9/toolbar" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/checkboxandradiogroupapp-solution" />
-            <option value="$PROJECT_DIR$/horizontalscrollviewapp-solution" />
           </set>
         </option>
       </GradleProjectSettings>
